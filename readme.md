@@ -159,17 +159,6 @@ ansible all -m ping -vvv
 ```
 ---
 
-# 🎯 Practice Tasks
-
-1. Install nginx using ad-hoc commands  
-2. Create a new user  
-3. Copy a file to `/tmp`  
-4. Fetch `/etc/hosts` file  
-5. Restart nginx  
-6. Check memory, CPU, and disk usage  
-
----
-
 # ✅ Conclusion  
 Ad-hoc commands are powerful for quick automation, debugging, and server management.  
-Use this as a reference guide while practicing Ansible.
+
